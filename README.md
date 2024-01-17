@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/jonassebera](https://dev.to/jonassebera)
 
-- 💬 Ask me about **Web3.0 development**
+- 💬 Ask me about **Web3.0 Application Development**
 
 - 📫 How to reach me **sebejaz99@gmail.com**
 
