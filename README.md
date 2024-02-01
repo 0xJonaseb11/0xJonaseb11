@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JONAS SEBERA</h1>
 <h3 align="center">A Highly Proficient And Ethical Web3.0 Fullstack Engineer</h3>
 
+![Web3.0 illustration](./blockchain-technology-4423752-3675973.mp4)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-3-0&label=Profile%20views&color=0e75b6&style=flat" alt="jaz-3-0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=jaz-3-0" alt="jaz-3-0" /></a> </p>
