@@ -11,18 +11,18 @@
 
 ------------------------
 
-- 🔭 I’m currently working on **QuantaLedger Project**
+- **I’m currently working on** _QuantaLedger Project_
 
-- 🌱 I’m currently learning **Hyperledger fabric, Golang, AI**
+- **I’m currently learning** _Hyperledger fabric, Golang, AI_
 
-- 👨‍💻 All of my projects are available [here](https://jonas-sebera.vercel.app)
+- **All of my projects are available** _**[here](https://jonas-sebera.vercel.app)**_
 
-- 📝 I regularly write articles [here](https://dev.to/jonassebera)
-- 📄 Know about my experiences [here](https://resume.io/r/Cg5tKp0Qh)
+- **I regularly write articles** _**[here](https://dev.to/jonassebera)**_
+- **Know about my experiences** _**[here](https://resume.io/r/Cg5tKp0Qh)**_
 
-- 💬 Ask me about **Web3.0 Application Development**
+- **Ask me about** _Web3.0 Application Development_
 
-- 📫 How to reach me **<sebejaz99@gmail.com>**
+- **Feel free to reach out to me at** _**<sebejaz99@gmail.com>**_
 
 ------------
 
