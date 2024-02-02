@@ -3,27 +3,32 @@
 
 ![Web3.0-Illustration](./industry.webp)
 
+-------------------
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-3-0&label=Profile%20views&color=0e75b6&style=flat" alt="jaz-3-0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=jaz-3-0" alt="jaz-3-0" /></a> </p>
+
+------------------------
 
 - 🔭 I’m currently working on **QuantaLedger Project**
 
 - 🌱 I’m currently learning **Hyperledger fabric, Golang, AI**
 
-- 🤝 I’m looking for help with **OpenCv, Agile**
+- 👨‍💻 All of my projects are available [here](https://jonas-sebera.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://jonas-sebera.vercel.app](https://jonas-sebera.vercel.app)
-
-- 📝 I regularly write articles on [https://dev.to/jonassebera](https://dev.to/jonassebera)
+- 📝 I regularly write articles [here](https://dev.to/jonassebera)
+- 📄 Know about my experiences [here](https://resume.io/r/Cg5tKp0Qh)
 
 - 💬 Ask me about **Web3.0 Application Development**
 
 - 📫 How to reach me **<sebejaz99@gmail.com>**
 
-- 📄 Know about my experiences [https://resume.io/r/Cg5tKp0Qh](https://resume.io/r/Cg5tKp0Qh)
+------------
 
 - ⚡ Fun fact **I am a Footballer**
+
+--------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +45,10 @@
 <a href="https://discord.com/users/1065213095431131218" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065213095431131218" height="30" width="40" /></a>
 </p>
 
-
 <!-- Add other languages and tools similarly -->
+
+
+-------------------------
 
 <!-- Github stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-3-0&show_icons=true&locale=en&layout=compact" alt="jaz-3-0" /></p>
@@ -49,3 +56,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-3-0&show_icons=true&locale=en" alt="jaz-3-0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-3-0&" alt="jaz-3-0" /></p>
+
+
+-------------------------
