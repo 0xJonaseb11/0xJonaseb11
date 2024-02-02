@@ -1,4 +1,10 @@
+# compiler files
 cache
 out
+build
+
+# env
 .env
+
+# tests
 coverage
