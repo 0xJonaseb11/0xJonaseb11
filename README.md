@@ -11,22 +11,11 @@
 
 ------------------------
 
-- **I’m currently working on** _QuantaLedger Project_
-
-- **I’m currently learning** _Hyperledger fabric, Golang, AI_
-
-- **All of my projects are available** _**[here](https://jonas-sebera.vercel.app)**_
-
-- **I regularly write articles** _**[here](https://dev.to/jonassebera)**_
-- **Know about my experiences** _**[here](https://resume.io/r/Cg5tKp0Qh)**_
-
-- **Ask me about** _Web3.0 Application Development_
+- **I’m currently learning** _Hyperledger fabric, Golang, AI, Smart contract security && auditing_
 
 - **Feel free to reach out to me at** _**<sebejaz99@gmail.com>**_
 
-------------
-
-- ⚡ Fun fact **I am a Footballer**
+- ⚡ Fun fact _**I am a Footballer**_
 
 --------------------
 
