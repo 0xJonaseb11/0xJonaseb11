@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JONAS SEBERA</h1>
 <h3 align="center">A Highly Proficient And Ethical Web3.0 Fullstack Engineer</h3>
 
-![Web3.0-Illustration](./industry.webp)
+![Web3.0-Illustration](./welcome.jpg)
 
 -------------------
 
