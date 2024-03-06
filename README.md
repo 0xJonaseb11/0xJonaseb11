@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm JONAS SEBERA</h1>
-<h3 align="center">A Highly Proficient And Ethical Web3.0 Fullstack Engineer</h3>
+<h1 align="center" font-family="sans" color="blue">Hi 👋, I'm JONAS SEBERA</h1>
 
-![Web3.0-Illustration](./welcome.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+developer)](https://git.io/typing-svg)
+
+<img src='./welcome.jpg' height='400px' width="1000px"/>
+
+<!-- ![Web3.0-Illustration](./welcome.jpg) -->
 
 -------------------
 
