@@ -39,7 +39,10 @@
 <a href="https://discord.com/users/1065213095431131218" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065213095431131218" height="20" width="30" /></a>
 </p>
 
-[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)
+--------------------------------------------------------
+--------------------------------------------------------
+
+_**[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)**_
 <!-- Add other languages and tools similarly -->
 
 <!-- ------------------------- -->
