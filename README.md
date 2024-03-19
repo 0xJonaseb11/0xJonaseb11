@@ -1,4 +1,4 @@
-<h1 align="center" font-family="sans" color="blue">Hi 👋, I'm JONAS SEBERA</h1>
+<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm JONAS SEBERA</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+Developer)](https://git.io/typing-svg)
 
@@ -39,6 +39,7 @@
 <a href="https://discord.com/users/1065213095431131218" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065213095431131218" height="20" width="30" /></a>
 </p>
 
+[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)
 <!-- Add other languages and tools similarly -->
 
 <!-- ------------------------- -->
