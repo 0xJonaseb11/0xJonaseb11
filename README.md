@@ -42,7 +42,7 @@
 --------------------------------------------------------
 --------------------------------------------------------
 
-_**[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)**_
+<!-- _**[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)**_ -->
 <!-- Add other languages and tools similarly -->
 
 <!-- ------------------------- -->
