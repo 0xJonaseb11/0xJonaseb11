@@ -10,9 +10,9 @@
 
 <!-- TROPHIES -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-3-0&label=Profile%20views&color=0e75b6&style=flat" alt="jaz-3-0" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xJonaseb11&label=Profile%20views&color=0e75b6&style=flat" alt="0xJonaseb11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=jaz-3-0" alt="jaz-3-0" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=0xJonaseb11" alt="0xJonaseb11" /></a> </p> -->
 
 <!-- ------------------------ -->
 
@@ -48,11 +48,11 @@
 <!-- ------------------------- -->
 
 <!-- Github stats -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaz-3-0&show_icons=true&locale=en&layout=compact" alt="jaz-3-0" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact" alt="0xJonaseb11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaz-3-0&show_icons=true&locale=en" alt="jaz-3-0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en" alt="0xJonaseb11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaz-3-0&" alt="jaz-3-0"/></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> 
 
 -------------------------
 
