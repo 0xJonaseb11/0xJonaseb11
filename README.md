@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en" alt="0xJonaseb11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11" alt="0xJonaseb11"/></p> 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> -->
 
 -------------------------
 
