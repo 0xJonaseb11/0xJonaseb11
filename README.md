@@ -20,7 +20,7 @@
 
 - **Feel free to reach out to me at** _**<sebejaz99@gmail.com>**_
 
-- ⚡ Fun fact _**I am a Footballer**_
+- ⚡ Fun fact _**I am a chel!**_
 
 --------------------
 
