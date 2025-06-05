@@ -1,4 +1,4 @@
-<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm <i>Jonas SEBERA</i></h1>
+<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm <b>𝑱𝑶𝓝𝓐𝑺 𝑺𝐸𝓑𝑬𝓡𝓐</b></h1> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+Developer;Frontend+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
