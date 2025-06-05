@@ -16,11 +16,11 @@
 
 <!-- ------------------------ -->
 
-- **I’m currently learning** _Hyperledger fabric, Golang, AI, Smart contract security && auditing_
+<h2 font-family=montserrat> - **I’m currently learning** _Hyperledger fabric, Golang, AI, Smart contract security && auditing_</h2>
 
-- **Feel free to reach out to me at** _**<sebejaz99@gmail.com>**_
+<h2 font-family=montserrat> - **Feel free to reach out to me at** _**<sebejaz99@gmail.com>**_ </h2>
 
-- ⚡ Fun fact _**I am a chel!**_
+<h2 font-family=montserrat> - 🎶MUSIC | F⚽️⚽️TBALL | MINDFULNESS**_ </h2>
 
 --------------------
 
@@ -48,9 +48,9 @@
 <!-- ------------------------- -->
 
 <!-- Github stats -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
+ <p font-family=montserrat ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
+<p font-family=montserrat >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> -->
 
