@@ -1,6 +1,6 @@
-<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm JONAS SEBERA</h1>
+<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm <i>Jonas SEBERA</i></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+Developer;Frontend+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
 <img src='./welcome.jpg' height='400px' width="1000px"/>
 
@@ -48,9 +48,9 @@
 <!-- ------------------------- -->
 
 <!-- Github stats -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&cache_seconds=0&theme=dark-blue" alt="0xJonaseb11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&cache_seconds=0&theme=dark-blue" alt="0xJonaseb11" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> -->
 
