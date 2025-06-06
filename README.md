@@ -16,11 +16,11 @@
 
 <!-- ------------------------ -->
 
-<h2 font-family=montserrat> I’m currently learning Hyperledger fabric, Golang, AI, Smart contract security && auditing</h2>
+<p font-family=montserrat> I’m currently learning Hyperledger fabric, Golang, AI, Smart contract security && auditing</p>
 
-<h2 font-family=montserrat> Feel free to reach out to me at </h2> <sebejaz99@gmail.com> 
+<p font-family=montserrat> Feel free to reach out to me at sebejaz99@gmail.com </p>
 
-<h2 font-family=montserrat> 🎶MUSIC | F⚽️⚽️TBALL | MINDFULNESS </h2>
+<p font-family=montserrat> 🎶MUSIC | F⚽️⚽️TBALL | MINDFULNESS </p>
 
 --------------------
 
