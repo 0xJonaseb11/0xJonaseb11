@@ -18,7 +18,7 @@
 
 <p font-family=montserrat> I’m currently learning Hyperledger fabric, Golang, AI, Smart contract security && auditing</p>
 
-<p font-family=montserrat> Feel free to reach out to me at sebejaz99@gmail.com </p>
+<p font-family=montserrat> Feel free to reach out to me at <b>sebejaz99@gmail.com</b> </p>
 
 <p font-family=montserrat> 🎶MUSIC | F⚽️⚽️TBALL | MINDFULNESS </p>
 
