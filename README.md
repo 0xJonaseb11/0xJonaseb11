@@ -48,7 +48,7 @@
 <!-- ------------------------- -->
 
 <!-- Github stats -->
- <p font-family=montserrat ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
+ <p font-family=montserrat ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&theme=dark" alt="0xJonaseb11" /></p>
 
 <p font-family=montserrat >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&cache_seconds=0&theme=dark" alt="0xJonaseb11" /></p>
 
