@@ -10,10 +10,6 @@
 
 <!-- TROPHIES -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xJonaseb11&label=Profile%20views&color=0e75b6&style=flat" alt="0xJonaseb11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=0xJonaseb11" alt="0xJonaseb11" /></a> </p> -->
-
 <!-- ------------------------ -->
 
 <p font-family=montserrat> I’m currently learning Hyperledger fabric, Golang, AI, Smart contract security && auditing</p>
@@ -24,42 +20,27 @@
 
 --------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jonassebera" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jonassebera" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/0xJonaseb11" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebera-jonas/" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/22163660/sebera-jonas" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22163660/sebera-jonas" height="20" width="30" /></a>
-<!-- <a href="https://codesandbox.com/jaz99" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jaz99" height="20" width="30" /></a>
-<a href="https://www.facebook.com/jonaswalker.deborde/" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebera jonas" height="20" width="30" /></a> -->
-<a href="https://instagram.com/sebe_j_az99" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebe_j_az99/" height="20" width="30" /></a>
-<!-- <a href="https://dribbble.com/jonas-sebera" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jonas-sebera" height="20" width="30" /></a>
-<a href="https://www.behance.net/jazjaz5" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jazjaz5" height="20" width="30" /></a> -->
-<a href="https://medium.com/@sebejaz99" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sebejaz99" height="20" width="30" /></a>
-<!-- <a href="https://www.topcoder.com/members/jaz99" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jaz99" height="20" width="30" /></a>-->
-<a href="https://discord.com/users/1065213095431131218" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065213095431131218" height="20" width="30" /></a> 
-</p>
+
 
 --------------------------------------------------------
-<!-- -------------------------------------------------------- -->
 
-<!-- _**[Buy me coffee](https://www.buymeacoffee.com/Jonas_sebera)**_ -->
-<!-- Add other languages and tools similarly -->
+<!-- GitHub Stats Section -->
+<!-- Top row: Languages card alone -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" alt="Top Languages" />
+</div>
 
-<!-- ------------------------- -->
+<!-- Second row: Stats and Streak side by side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&title=Jonas%20Sebera%27s%20GitHub%20Stats%20(Public%20Only)&card_width=400" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=0xJonaseb11&theme=dark&hide_border=true&count_private=true&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=58a6ff" alt="GitHub Streak" />
+</div>
 
-<!-- Github stats -->
-<!-- Github stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&theme=dark" alt="0xJonaseb11" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true" alt="0xJonaseb11" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=0xJonaseb11&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJonaseb11&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&area_alpha=0.1" alt="GitHub Activity Graph" />
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> -->
 
