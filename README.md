@@ -4,19 +4,6 @@
 
 <img src='./welcome.jpg' height='400px' width="1000px"/>
 
-<!-- ![Web3.0-Illustration](./welcome.jpg) -->
-
--------------------
-
-<!-- TROPHIES -->
-
-<!-- ------------------------ -->
-
-
-
---------------------
-
-
 
 --------------------------------------------------------
 
@@ -41,7 +28,8 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJonaseb11&" alt="0xJonaseb11"/></p> -->
 
 -------------------------
+-------------------------
 
 [@0xJonaseb11](https://jonas-sebera.vercel.app)
 
-<p font-family=montserrat> Feel free to reach out to me at <b>sebejaz99@gmail.com</b> </p>
+Feel free to reach out to me at <sebejaz99@gmail.com>
