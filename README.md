@@ -25,14 +25,16 @@
 --------------------------------------------------------
 
 <!-- GitHub Stats Section -->
-<!-- Top row: Languages card alone -->
+<!-- Top row: Languages and GitHub Stats side by side -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJonaseb11&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10&card_width=350" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10&title=Jonas%20Sebera%27s%20GitHub%20Stats%20(Public%20Only)&card_width=350" alt="GitHub Stats" />
 </div>
 
-<!-- Second row: Stats and Streak side by side -->
+<!-- Bottom row: Contributions and Streak side by side -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10&title=Jonas%20Sebera%27s%20GitHub%20Stats%20(Public%20Only)&card_width=350" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xJonaseb11&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10&title=Total%20Contributions&card_width=350&hide=stars,commits,prs,issues,contribs" alt="Total Contributions" />
   
   <img src="https://streak-stats.demolab.com?user=0xJonaseb11&theme=dark&background=0d1117&border=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=58a6ff&border_radius=10" alt="GitHub Streak" />
 </div>
