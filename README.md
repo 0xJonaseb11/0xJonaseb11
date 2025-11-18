@@ -29,7 +29,6 @@
 
 -------------------------
 -------------------------
+# SUPPORT MY WORK ⬇️
 
-[@0xJonaseb11](https://jonas-sebera.vercel.app)
-
-Feel free to reach out to me at <sebejaz99@gmail.com>
+[#support-my-work](https://0xjonaseb11.vercel.app/#support-my-work)
